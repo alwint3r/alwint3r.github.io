@@ -3,13 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://alwint3r.github.io/posts/sending-firmware-version-over-lora/</loc>
+    <lastmod>2018-05-13T21:17:55+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://alwint3r.github.io/about/</loc>
     <lastmod>2018-05-13T19:04:48+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://alwint3r.github.io/</loc>
-    <lastmod>2018-05-13T19:04:48+07:00</lastmod>
+    <lastmod>2018-05-13T21:17:55+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -19,7 +24,20 @@
   </url>
   
   <url>
+    <loc>https://alwint3r.github.io/tags/lora/</loc>
+    <lastmod>2018-05-13T21:17:55+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alwint3r.github.io/posts/</loc>
+    <lastmod>2018-05-13T21:17:55+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://alwint3r.github.io/tags/</loc>
+    <lastmod>2018-05-13T21:17:55+07:00</lastmod>
     <priority>0</priority>
   </url>
   

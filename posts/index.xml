@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alwin Arrasyid</title>
-    <link>https://alwint3r.github.io/</link>
-    <description>Recent content on Alwin Arrasyid</description>
+    <title>Posts on Alwin Arrasyid</title>
+    <link>https://alwint3r.github.io/posts/</link>
+    <description>Recent content in Posts on Alwin Arrasyid</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 13 May 2018 21:17:55 +0700</lastBuildDate>
     
-	<atom:link href="https://alwint3r.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alwint3r.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       <guid>https://alwint3r.github.io/posts/sending-firmware-version-over-lora/</guid>
       <description>There was a case where We need to keep the server informed about the version of firmware that is running on our devices. The devices are not directly connected to the internet, instead they send data through LoRa hence sending the version information can be a little tricky.
 We used LoRaWAN instead of LoRa PTP because it is well-defined protocol by LoRa Alliance and is easy to set up on both the edge and the cloud.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://alwint3r.github.io/about/</link>
-      <pubDate>Sun, 13 May 2018 19:04:48 +0700</pubDate>
-      
-      <guid>https://alwint3r.github.io/about/</guid>
-      <description>Alwin Arrasyid is a software engineer, public speaker and trainer around internet of things topic, also an enthusiast of technology in general. Alwin has spoken in various IoT-related events such as Road to Republic of IoT, Republic of IoT, Republic of IoT Strikes Back! and another big events such as Global Azure Bootcamp, Python Conference ID 2017 at Surabaya representing DycodeX as the gold sponsor of the event. Alwin is currently working as Lead Software Engineer at DycodeX, an IoT solutions and maker movement enabler company.</description>
     </item>
     
   </channel>
