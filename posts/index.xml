@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Alwin Arrasyid</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 May 2018 21:17:55 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 20 May 2018 19:43:13 +0700</lastBuildDate>
     
 	<atom:link href="https://alwint3r.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The State of mongo-datatable</title>
+      <link>https://alwint3r.github.io/posts/the-state-of-mongo-datatable/</link>
+      <pubDate>Sun, 20 May 2018 19:43:13 +0700</pubDate>
+      
+      <guid>https://alwint3r.github.io/posts/the-state-of-mongo-datatable/</guid>
+      <description>I have published several open source libraries in my career as software engineer. Most of them are not popular and not widely used judging from some statistics. You can find them on my github profile and on organizations that I&amp;rsquo;m a part of. Anyway I&amp;rsquo;m gonna talk about the module that I published for the first time ever, that is mongo-datatable. It is a node.js module for dealing with server-side processing for jQuery datatables using MongoDB as the database engine.</description>
+    </item>
     
     <item>
       <title>Sending Firmware Version Over LoRa</title>
