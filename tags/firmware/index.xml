@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Firmware on Alwin Arrasyid</title>
+    <link>https://alwint3r.github.io/tags/firmware/</link>
+    <description>Recent content in Firmware on Alwin Arrasyid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 May 2018 21:17:55 +0700</lastBuildDate>
+    
+	<atom:link href="https://alwint3r.github.io/tags/firmware/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sending Firmware Version Over LoRa</title>
+      <link>https://alwint3r.github.io/posts/sending-firmware-version-over-lora/</link>
+      <pubDate>Sun, 13 May 2018 21:17:55 +0700</pubDate>
+      
+      <guid>https://alwint3r.github.io/posts/sending-firmware-version-over-lora/</guid>
+      <description>There was a case where We need to keep the server informed about the version of firmware that is running on our devices. The devices are not directly connected to the internet, instead they send data through LoRa hence sending the version information can be a little tricky.
+We used LoRaWAN instead of LoRa PTP because it is well-defined protocol by LoRa Alliance and is easy to set up on both the edge and the cloud.</description>
+    </item>
+    
+  </channel>
+</rss>
