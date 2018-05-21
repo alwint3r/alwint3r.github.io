@@ -17,7 +17,7 @@
       <pubDate>Sun, 20 May 2018 19:43:13 +0700</pubDate>
       
       <guid>https://alwint3r.github.io/posts/the-state-of-mongo-datatable/</guid>
-      <description>I have published several open source libraries in my career as software engineer. Most of them are not popular and not widely used judging from some statistics. You can find them on my github profile and on organizations that I&amp;rsquo;m a part of. Anyway I&amp;rsquo;m gonna talk about the module that I published for the first time ever, that is mongo-datatable. It is a node.js module for dealing with server-side processing for jQuery datatables using MongoDB as the database engine.</description>
+      <description>I have published several open source libraries in my career as software engineer. Most of them are not popular and not widely used judging from some statistics. You can find them on my github profile and on organizations that I&amp;rsquo;m a part of. Anyway I&amp;rsquo;m gonna talk about a library that I published for the first time ever, that is mongo-datatable. It is a node.js module for dealing with server-side processing for jQuery datatables with MongoDB as the database engine.</description>
     </item>
     
     <item>
